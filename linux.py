@@ -1,6 +1,6 @@
 import os
 
-cmd= 'reboot'
+cmd= 'sudo reboot'
 os.system(cmd)
 
 # for linux
